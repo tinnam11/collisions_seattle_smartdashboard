@@ -1,10 +1,12 @@
 # Seattle Vehicle Collision Dashboard
 
+![Map view](/img/mainmap.png)
+
 A smart, interactive dashboard visualizing vehicle collision data in Seattle, Washington. This project analyzes traffic safety patterns including collision severity, temporal trends, and collision types to support Vision Zero safety initiatives.
 
 ## Live Demo
 
-🔗 **Dashboard URL**: `https://tinnam11.github.io/collisions_seattle_smartdashboard/index.html`
+🔗 **Dashboard URL**: [https://tinnam11.github.io/collisions_seattle_smartdashboard/index.html](https://tinnam11.github.io/collisions_seattle_smartdashboard/index.html)
 
 
 ## Project Overview
@@ -50,6 +52,7 @@ Four dynamic stat cards showing:
 - Pedestrian-involved collisions
 
 ### 3. Data Visualizations
+![Panel view](/img/panel.png)
 
 #### Hourly Pattern Chart (Bar Chart)
 - Shows collision frequency by hour of day
